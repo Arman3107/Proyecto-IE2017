@@ -1,0 +1,6 @@
+datos= ("Costa Rica", 9.748917, -83.753428)
+cursor1.execute(sql, datos)
+datos= ("San Jose", 9.93333, -84.08333)
+cursor1.execute(sql, datos)
+datos= ("Turrialba", 9.90467, -83.68352)
+cursor1.execute(sql, datos)
